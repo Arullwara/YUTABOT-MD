@@ -1,8 +1,8 @@
 let fs = require('fs')
 
-global.kontak = ['6282361160044'] //Jangan Sembarang Ganti 
-global.owner = ['6282361160044','6285212023766'] // Put your number here
-global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'] // ganti jadi group lu
+global.kontak = ['6285822347348'] //Jangan Sembarang Ganti 
+global.owner = ['6285822347348','6285822347348'] // Put your number here
+global.linkGC = ['https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'] // ganti jadi group lu
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -32,11 +32,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Shiro-Md'
-global.author = 'フレンド・ゾーン'
-global.email = 'fahriadison12@gmail.com'
+global.packname = 'Arull-Md'
+global.author = 'ArullBotz'
+global.email = 'sahrulwara62@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©shiro-md'
+global.wm = '©Arull-md'
 global.media = 'https://api.lolhuman.xyz/api/textprome2/glitch?apikey=Deffbotz&text1=YutaBotzMD&text2=Using%20Multi%20Device'
 
 global.wait = '_*tunggu sedang di proses...*_'
